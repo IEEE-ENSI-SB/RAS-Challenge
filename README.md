@@ -46,6 +46,12 @@ This project focuses on building a model capable of detecting signs of tiredness
     Tired Faces: 100 images
     Normal Faces: 100 images
 
+This dataset is a compilation of other datasets; here are the links to the datasets used."
+    -https://universe.roboflow.com/new-workspace-8swzs/sober/dataset/1queryText=&pageSize=50&startingIndex=0&browseQuery=truefbclid=IwAR1nAYDwSktHTKT0XFDO_FvHlsGwCkWsHBGNVnI5RmzBcqb-eFg9K1fSOCk
+    -https://www.kaggle.com/datasets/rakibuleceruet/drowsiness-prediction-dataset
+    -https://universe.roboflow.com/new-workspace-8swzs/drunk?fbclid=IwAR107ExMzfjy0lymJPgRJjVMyN5fwqA-fbKdqaUA_maA4Dz4h_JYT8ihwHQ
+
+
 # DEMO
 
 https://drive.google.com/file/d/1qj1dFldVRQ2eTBP6v_Gh_YDPYOk1UaNV/view?fbclid=IwAR0_DEFzdmphkF24JBtzZOIyJnCyrDEEg-ptYom6CnQjiI1lLQUudF8t23Q
